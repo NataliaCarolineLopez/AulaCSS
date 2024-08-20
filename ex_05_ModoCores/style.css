@@ -1,0 +1,28 @@
+/* alterando a cor por nome */
+.nome{
+    color: chocolate;
+    background-color: beige;
+}
+
+/* alterando cor por hexadecimal */
+.hexadecimal{
+    color: #95c5db;
+    background-color: #c47dd4;
+}
+
+/* alterando cor por rgba */
+.rgba{
+    color:rgba(196, 125, 212, 0.6) ;
+    background-color: rgba(196, 125, 212, 0.6);
+}
+
+/* alterando a segunda página */
+h1{
+    background-color: mediumvioletred;
+}
+
+.div-background{
+    background-image: url(dog.jpeg.jpg);
+    height: 300px;
+    width: 800px;
+}
